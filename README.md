@@ -1,2 +1,2 @@
 # odin-recipes
-tasty recipes website
+tasty recipes websites
